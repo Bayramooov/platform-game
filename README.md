@@ -9,7 +9,7 @@ Platform games are a video game genre and subgenre of action games. Platformers 
 - User-friendly
 - Open source
 
-PS: you can steal / fork / copy / clone / develop..., it is an fully open-source project for general learning!
+PS: you can steal / fork / copy / clone / develop..., it is fully open-source project for general learning!
 it's not fully finished yet, let's make it challenge for everyone who is curious about 2D/3D Graphics. You can create skins for the player, or you can add new features such as shooting or killing enemies.
 
 ##Techieland
